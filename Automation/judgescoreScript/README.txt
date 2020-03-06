@@ -1,0 +1,2 @@
+These series of functions take in an excel of presentor name and judge's scores and provide a winner based judge's z-score and the present's absolute score ranking.
+This strategy reduces effects of more leanient and more critical judges.

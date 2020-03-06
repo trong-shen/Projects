@@ -1,0 +1,1 @@
+These series of functions that compile every conferenece participant's feedback in word and send them individual feedback word file via Gmail.
