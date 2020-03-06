@@ -1,2 +1,2 @@
 # Projects
-This is Trong's repository for Data Science Projects and Assignments
+This is Trong's repository for projects including data science, automation, and image analysis
